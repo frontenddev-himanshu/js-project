@@ -175,10 +175,12 @@
         outline: 2px solid #8c8cf9;
         color: #8c8cf9;
         font-size: 1rem;
+        transition: 0.2s linear;
     }
 
     .open-eye {
         position: absolute;
+        transition: .2s linear;
     }
 
     .close-eye {
