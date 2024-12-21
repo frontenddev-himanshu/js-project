@@ -62,6 +62,8 @@ btn2.addEventListener("click", function () {
 
     tap.style.color = "#837fcb"
 
+    tap.style.outlineColor = "#837fcb"
+
 })
 
 // btn3
@@ -82,6 +84,8 @@ btn3.addEventListener("click", function () {
     lbl.style.backgroundColor = "#00d1b2"
 
     tap.style.color = "#00d1b2"
+
+    tap.style.outlineColor = "#00d1b2"
 
 })
 
@@ -104,6 +108,8 @@ btn4.addEventListener("click", function () {
 
     tap.style.color = "#00b289"
 
+    tap.style.outlineColor = "#00b289"
+
 })
 
 // btn5
@@ -124,6 +130,8 @@ btn5.addEventListener("click", function () {
     lbl.style.backgroundColor = "#039be5"
 
     tap.style.color = "#039be5"
+
+    tap.style.outlineColor = "#039be5"
 
 })
 
@@ -146,6 +154,8 @@ btn6.addEventListener("click", function () {
 
     tap.style.color = "#0f7cff"
 
+    tap.style.outlineColor = "#0f7cff"
+
 })
 
 // btn7
@@ -166,6 +176,8 @@ btn7.addEventListener("click", function () {
     lbl.style.backgroundColor = "#4a00e0"
 
     tap.style.color = "#4a00e0"
+
+    tap.style.outlineColor = "#4a00e0"
 
 })
 
@@ -188,6 +200,8 @@ btn8.addEventListener("click", function () {
 
     tap.style.color = "#f5c626"
 
+    tap.style.outlineColor = "#f5c626"
+
 })
 
 // btn9
@@ -208,6 +222,8 @@ btn9.addEventListener("click", function () {
     lbl.style.backgroundColor = "#f83600"
 
     tap.style.color = "#f83600"
+
+    tap.style.outlineColor = "#f83600"
 
 })
 
@@ -230,6 +246,8 @@ btn10.addEventListener("click", function () {
 
     tap.style.color = "#ff5555"
 
+     tap.style.outlineColor = "#ff5555"
+
 })
 
 // default colo
@@ -250,6 +268,8 @@ btn1.addEventListener("click", function () {
     lbl.style.backgroundColor = "#8c8cf9"
 
     tap.style.color = "#8c8cf9"
+
+    tap.style.outlineColor = "#8c8cf9"
 
 })
 
